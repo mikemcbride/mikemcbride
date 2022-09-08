@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Some things I've made that you might find useful:
+I like building things that make developers more productive. I'm currently working on developer productivity at The New York Times. Some things I've made that you might find useful:
 
 - [Flexbox Playground](https://flexbox.tech) - a web app for visually building flexbox layouts. It generates all the markup and styles you need to implement that layout.
 - [Box Shadow Generator](https://box-shadow.dev) - a web app for generating box-shadows. It generates the CSS needed to implement the shadow.
