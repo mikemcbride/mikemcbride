@@ -12,4 +12,4 @@ A little more about me:
 
 - 🌱 I’m currently learning: Go, Svelte, and loads of DevOps goodness
 - 💬 Ask me about: Vue, JavaScript, CSS, keyboard shortcuts, Vim
-- 📫 How to reach me: [Twitter](https://twitter.com/_mcbridem_), [Email](mailto:mike@mikemcbride.dev)
+- 📫 How to reach me: [Email](mailto:mike@mikemcbride.dev), [Mastodon](https://fosstodon.org/@mcbridem)
