@@ -11,5 +11,5 @@ I like building things that make developers more productive. I'm currently worki
 A little more about me:
 
 - 🌱 I’m currently learning: Go, Svelte, and loads of DevOps goodness
-- 💬 Ask me about: Vue, JavaScript, CSS, keyboard shortcuts, Vim
+- 💬 Ask me about: dotfiles, Vue, JavaScript, CSS, keyboard shortcuts, Vim
 - 📫 How to reach me: [Email](mailto:mike@mikemcbride.dev), [Mastodon](https://fosstodon.org/@mcbridem)
