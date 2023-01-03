@@ -12,4 +12,4 @@ A little more about me:
 
 - 🌱 I’m currently learning: Go, Svelte, and loads of DevOps stuff
 - 💬 Ask me about: dotfiles, Vue, JavaScript, CSS, keyboard shortcuts, Vim
-- 📫 How to reach me: [Email](mailto:mike@mikemcbride.dev), [Mastodon](https://fosstodon.org/@mcbridem), [Contact Form](https://mikemcbride.dev/contact)
+- 📫 How to reach me: [Email](mailto:mike@mikemcbride.dev), [Mastodon](https://hachyderm.io/@mcbridem), [Contact Form](https://mikemcbride.dev/contact)
