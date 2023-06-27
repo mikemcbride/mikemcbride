@@ -5,7 +5,7 @@ I like building things that make developers more productive. I'm currently worki
 - [Flexbox Playground](https://flexbox.tech) - a web app for visually building flexbox layouts. It generates all the markup and styles you need to implement that layout.
 - [Box Shadow Generator](https://box-shadow.dev) - a web app for generating box-shadows. It generates the CSS needed to implement the shadow.
 - [Color Conversion CLI](https://www.npmjs.com/package/convert-color-cli) - easily convert between different color formats (including transparent values) from the command line.
-- [Electron Highlighter theme](https://mikemcbride.dev/electron-highlighter) - I made a color theme that you can use in a bunch of different applications. I like it. Maybe you will too.
+- [Electron Highlighter theme](https://github.com/electron-highlighter) - I made a color theme that you can use in a bunch of different applications. I like it. Maybe you will too.
 
 
 A little more about me:
