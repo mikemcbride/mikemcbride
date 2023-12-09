@@ -10,6 +10,6 @@ I like building things that make developers more productive. I'm currently worki
 
 A little more about me:
 
-- 🌱 I’m currently learning: Go, Svelte, and loads of DevOps stuff
+- 🌱 I’m currently learning: all sorts of dev-ops stuff
 - 💬 Ask me about: dotfiles, Vue, JavaScript, CSS, keyboard shortcuts, Vim
-- 📫 How to reach me: [Email](mailto:mike@mikemcbride.dev), [Mastodon](https://hachyderm.io/@mcbridem), [Contact Form](https://mikemcbride.dev/contact)
+- 📫 How to reach me: [Email](mailto:mike@mikemcbride.dev), [Mastodon](https://vmst.io/@mcbridem), [Contact Form](https://mikemcbride.dev/contact)
